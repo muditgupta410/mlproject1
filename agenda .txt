@@ -1,0 +1,6 @@
+set up the git repository
+new environment
+setup.py
+requirement.txt
+
+2--src folder and buid the package
